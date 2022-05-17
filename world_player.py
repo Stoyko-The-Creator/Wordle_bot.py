@@ -1,5 +1,5 @@
 from random import choice
-import Wordl_game
+import wordl_game
 words=Wordl_game.word_list('Five-letters.txt') # setup command line flag
 pool=words.copy()
 
